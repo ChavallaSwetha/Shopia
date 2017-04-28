@@ -12,7 +12,7 @@ public class Shopia {
 		driver.get("http://uae.shopia.com/");
 		System.out.println("Hellow Shopia");
         System.out.println("Swetha for testing");
-        
+        System.out.println("Adding output in created branch2");
 	}
 
 }
