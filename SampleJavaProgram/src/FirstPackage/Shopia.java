@@ -11,7 +11,7 @@ public class Shopia {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://uae.shopia.com/");
 		System.out.println("Hellow Shopia");
-        System.out.println("Swetha for testing");
+        System.out.println("Swetha for testing shopia");
        
 	}
 
